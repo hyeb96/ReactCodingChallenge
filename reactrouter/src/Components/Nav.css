@@ -1,0 +1,17 @@
+nav {
+    background-color: whitesmoke;
+
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+    padding: 30px;
+}
